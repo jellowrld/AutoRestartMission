@@ -1,7 +1,8 @@
 # AutoRestartMission for The First Descendant
-Used on and created for 1920 x 1080
+Used on and created for 1920 x 1080, Was made specifically to constantly restart Defiler to farm for core materials and tokens for outfits.
+Also has a press F function that is commented out at line 57 in coding.. If you know you know..
 
-To run this Python script, you'll need to install several dependencies. Here’s a list of the required packages:
+To run this Python script, you'll need to install python and several dependencies. Here’s a list of the required packages:
 
 1. **tkinter**: This is the standard Python library for creating GUIs, so it might already be installed if you are using a standard Python installation. If it’s not installed, you can install it via the package manager for your operating system. 
    
