@@ -1,4 +1,4 @@
-# AutoRestartMission for The First Descendant
+# AutoRestartMission for The First Descendant - Made for Colossi
 Used on and created for 1920 x 1080, Was made specifically to constantly restart Defiler to farm for core materials and tokens for outfits.
 Also has a press F function that is commented out at line 57 in coding.. If you know you know..
 
