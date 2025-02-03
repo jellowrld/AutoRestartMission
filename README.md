@@ -17,7 +17,7 @@ To run this Python script, you'll need to install python and several dependencie
 
    Additionally, you need to install Tesseract itself:
    - On Ubuntu/Debian: `sudo apt-get install tesseract-ocr`
-   - On Windows, download the Tesseract installer from [here](https://github.com/tesseract-ocr/tesseract) and follow the installation instructions. Make sure to add the Tesseract binary to your system's PATH.
+   - On Windows, download the Tesseract installer from [here](https://github.com/tesseract-ocr/tesseract) and follow the installation instructions. Make sure to add the Tesseract binary to your system's PATH. (Google if you do not know how to.)
    - On macOS: `brew install tesseract`
 
 3. **Pillow**: This library is used for image processing, and `ImageGrab.grab()` relies on it.
