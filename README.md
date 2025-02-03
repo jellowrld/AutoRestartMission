@@ -1,4 +1,5 @@
-# AutoRestartMission
+# AutoRestartMission for The First Descendant
+Used on and created for 1920 x 1080
 
 To run this Python script, you'll need to install several dependencies. Here’s a list of the required packages:
 
